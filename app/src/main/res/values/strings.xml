@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">triki</string>
+    <string name="app_name">Triki</string>
+    <string name="unJugador">1 player</string>
+    <string name="dosJugador">2 players</string>
+    <string name="facil">Easy</string>
+    <string name="normal">Normal</string>
+    <string name="imposible">Hard</string>
+    <string name="casilla">Tile</string>
+    <string name="circulosGanan">Circle win</string>
+    <string name="EquisGanan">Crosses win</string>
+    <string name="Empate">Tie</string>
+
 </resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Triki</string>
+    <string name="unJugador">1 jugador</string>
+    <string name="dosJugador">2 jugadores</string>
+    <string name="facil">Facik</string>
+    <string name="normal">Normal</string>
+    <string name="imposible">Duro</string>
+    <string name="casilla">Casilla</string>
+    <string name="circulosGanan">Circulos ganan</string>
+    <string name="EquisGanan">Equis ganan</string>
+    <string name="Empate">Empate</string>
+</resources>
